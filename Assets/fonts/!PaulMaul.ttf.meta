@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e4e44c0c6dacd2c4dbd459d8b37efc30
+timeCreated: 1494675311
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: '!Paul Maul'
+  fontNames:
+  - '!Paul Maul'
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 38799b3d3d9c13a4c807f31e2fcb316a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
